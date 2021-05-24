@@ -1,0 +1,34 @@
+Values for Sample B
+The total number of words = 47
+The total number of distinct = 26
+The popular treshold words = 2
+The common treshold 1 words = 12
+The common treshold 2 words = 14
+____________________________________________________________________________________________________________
+Table for the top values
++----+-----+----+
+|Word|Count|Rank|
++----+-----+----+
+|  hh|    6|   0|
+|blue|    6|   1|
++----+-----+----+
+
+Table for the mid values
++------+-----+----+
+|  Word|Count|Rank|
++------+-----+----+
+|  talk|    1|  12|
+| about|    1|  13|
+|theses|    1|  14|
++------+-----+----+
+
+Table for the rare values
++----+-----+----+
+|Word|Count|Rank|
++----+-----+----+
+| usa|    1|  23|
+|  uk|    1|  24|
+| uae|    1|  25|
++----+-----+----+
+
+​

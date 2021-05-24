@@ -1,0 +1,54 @@
+Values for Sample A
+The total number of words = 51
+The total number of distinct = 45
+The popular treshold words = 3
+The common treshold 1 words = 21
+The common treshold 2 words = 24
+____________________________________________________________________________________________________________
+Table for the top values
++------+-----+----+
+|  Word|Count|Rank|
++------+-----+----+
+| spark|    3|   0|
+|   the|    3|   1|
+|apache|    2|   2|
++------+-----+----+
+
+Table for the mid values
++-------+-----+----+
+|   Word|Count|Rank|
++-------+-----+----+
+|    was|    1|  21|
+|  later|    1|  22|
+|donated|    1|  23|
+|     to|    1|  24|
++-------+-----+----+
+
+Table for the rare values
++-----------+-----+----+
+|       Word|Count|Rank|
++-----------+-----+----+
+|parallelism|    1|  41|
+|        and|    1|  42|
+|      fault|    1|  43|
+|  tolerance|    1|  44|
++-----------+-----+----+
+
+​
+
+​
+
+​
+
+​
+
+​
+
+​
+​
+
+​
+
+​
+
+​

@@ -1,0 +1,35 @@
+Values for Sample E
+The total number of words = 17
+The total number of distinct = 7
+The popular treshold words = 1
+The common treshold 1 words = 3
+The common treshold 2 words = 4
+____________________________________________________________________________________________________________
+Table for the top values
++----+-----+----+
+|Word|Count|Rank|
++----+-----+----+
+|  ab|    7|   0|
++----+-----+----+
+
+Table for the mid values
++----+-----+----+
+|Word|Count|Rank|
++----+-----+----+
+|abcd|    2|   3|
+|   q|    1|   4|
++----+-----+----+
+
+Table for the rare values
++----+-----+----+
+|Word|Count|Rank|
++----+-----+----+
+|  qq|    1|   5|
+|cdba|    1|   6|
++----+-----+----+
+
+​
+
+​
+
+​

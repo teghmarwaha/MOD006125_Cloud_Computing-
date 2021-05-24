@@ -1,0 +1,43 @@
+Values for Sample C
+The total number of words = 61
+The total number of distinct = 47
+The popular treshold words = 3
+The common treshold 1 words = 22
+The common treshold 2 words = 25
+____________________________________________________________________________________________________________
+Table for the top values
++------------+-----+----+
+|        Word|Count|Rank|
++------------+-----+----+
+|applications|    6|   0|
+|  kubernetes|    5|   1|
+|      system|    4|   2|
++------------+-----+----+
+
+Table for the mid values
++----+-----+----+
+|Word|Count|Rank|
++----+-----+----+
+|  hh|    1|  22|
+|  jj|    1|  23|
+|   k|    1|  24|
+| mmm|    1|  25|
++----+-----+----+
+
+Table for the rare values
++----+-----+----+
+|Word|Count|Rank|
++----+-----+----+
+| ddd|    1|  43|
+|  cc|    1|  44|
+| vvb|    1|  45|
+|  nn|    1|  46|
++----+-----+----+
+
+​
+
+​
+
+​
+
+​
