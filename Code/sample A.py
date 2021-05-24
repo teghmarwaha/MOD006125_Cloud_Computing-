@@ -95,7 +95,7 @@ uniqueWords = dF_f1.distinct().count() #distinct sum
 
 low = (((uniqueWords/100) *5))
 lowC = math.ceil(low)
-
+lowCT= (lowC - 1)
 
 
 # calculate value 1 for mid 
@@ -156,7 +156,7 @@ print(l)
 
 m =("Table for the top values")
 print(m)
-n = dF_count.filter(col("Rank").between(0,lowC)).show(100000)
+n = dF_count.filter(col("Rank").between(0,lowCT)).show(100000)
 
 
 
